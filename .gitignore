@@ -20,3 +20,6 @@ bin/ojdbc6_g.jar
 
 # Build Properties
 build.properties
+
+# API Keys
+slash-course-api-keys/
