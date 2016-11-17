@@ -203,7 +203,7 @@ Create new course object.
 
 ##### Create course object with existing Instructor
 ```
-POST /api/v0/slash_courses HTTP/1.1
+> POST /api/v0/slash_courses HTTP/1.1
 Content-Type: application/json
 
 {
@@ -222,7 +222,7 @@ Content-Type: application/json
 
 ##### Create course object with new Instructor object
 ```
-POST /api/v0/slash_courses HTTP/1.1
+> POST /api/v0/slash_courses HTTP/1.1
 Content-Type: application/json
 
 {
